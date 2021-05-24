@@ -1,0 +1,1 @@
+food_type = [["italian place A", "italian place B", "italian place C", "italian place D"], ["mexican place A", "mexican place B", "mexican place C", "mexican place D"]["pizza place a", "pizza place b", "pizza place c", "pizza place d"], ["fast food place a", "fast food place b"]]
